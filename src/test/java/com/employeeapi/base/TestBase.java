@@ -12,7 +12,7 @@ public class TestBase {
 	
 	public static RequestSpecification httpRequest;
 	public static Response reponse;
-	public String empID = "51838";
+	public String empID = "1"; //this is hardcoded id taken from database through Postman with GetAllUsers request
 	
 	public Logger logger;
 	
